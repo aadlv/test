@@ -1,0 +1,67 @@
+[Database - HQ - OPAP]
+CBHQ - OPAP 14.12.0.0
+WarpMobile 14.13.0.0
+PUBHQ 14.13.0.0
+FOHQSettlement 14.13.0.0
+FOSO 14.13.0.0
+TexasCommon 14.13.0.0
+TexasFixedOdds 14.12.0.0
+FOCORE 14.12.0.0
+FOHQ 14.13.0.0
+MMDBTools 14.12.0.0
+MMVersion 14.13.0.0
+FOHQCS 14.13.0.0
+WarpFixedOdds 14.11.0.0
+MMSHWALLET 14.12.0.0
+DBCORE 14.13.0.0
+EXCHQ 14.10.0.0
+MMBTI 14.13.0.0
+MMABCBONG 14.13.0.0
+MM - OPAP 14.13.0.0
+Scoreboard - OPAP 14.13.0.0
+MMSHWALLET - OPAP 14.12.0.0
+CFGHQ - OPAP 14.13.0.0
+
+[Delaware]
+Warp.Util 14.12.0.0
+
+[Desktop Applications - HQ - OPAP]
+BetCalculatorCOM 3.2.2.40
+Retail Terminals Manager Client 14.13.0.0
+Ad-Hoc Profitability 14.11.0.0
+Back Office 14.11.0.0
+Bet Control 14.13.0.0
+Call Centre 14.13.0.0
+Customer Services 14.13.0.0
+Results & Settlement 14.13.0.0
+Risk Manager 14.13.0.0
+
+[Gaming Notification Service - OPAP]
+Gaming Notification Service 2.0.41.0
+
+[Prism Client]
+Prism Client 14.12.0.0
+
+[Prism Server]
+Prism Server 14.12.0.0
+
+[Retail Terminal Server]
+Retail Terminal Server 1.7.18.0
+
+[Retail Terminals Manager Web Service]
+Retail Terminals Manager Web Service 14.13.0.0
+
+[Shared Wallet Customer Service]
+Shared Wallet Customer Service 14.12.0.0
+
+[Warp - Application - OPAP]
+Warp - Application 14.13.0.0
+
+[World Till - OPAP]
+Com.Finsoft.WorldTill.Services 14.13.0.0
+Com.Finsoft.WorldTill.TerminalHost 14.13.0.0
+BetCalculatorCOM 3.2.2.40
+Com.Finsoft.Delaware 14.13.0.0
+Com.Finsoft.WorldTill.Domain 14.13.0.0
+Com.Finsoft.WorldTill.Infrastructure.Shell 14.13.0.0
+Com.Finsoft.WorldTill.Interface 14.13.0.0
